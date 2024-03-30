@@ -1,4 +1,4 @@
-package rotes
+package routes
 
 import (
 	"github.com/Kendal-Katherine/meu-primeiro-crud-go/src/controller"
